@@ -1,7 +1,9 @@
 # StarTED Project
 
 ![CRUD](https://github.com/julian-deleon/StarTED-Lab/assets/77114985/25480a3c-116f-41d3-9d78-573720e225bd)
+***
 ![query](https://github.com/julian-deleon/StarTED-Lab/assets/77114985/95018585-9ddd-4889-8a7b-db8c313635be)
+***
 ![manage](https://github.com/julian-deleon/StarTED-Lab/assets/77114985/eb8a3436-4d0e-4b95-abb5-60c64e631c95)
 
 > **Julian De Leon**
